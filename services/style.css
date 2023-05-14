@@ -1,0 +1,9 @@
+.footer{
+    background-color: darkorange;
+    color: white;
+    text-align: center;
+}
+.card{
+    margin-bottom: 20px;
+    cursor: pointer;
+}
